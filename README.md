@@ -16,8 +16,6 @@
 - When `<event/action>`
 - Then `<expected outcome>`
 
----
-
 ## 2. Full User Story Example
 
 ### User Story
@@ -34,3 +32,22 @@
   - And 90 customers have opted in to email promotions
 - When I request the customer email list
 - Then I should see a list of 90 customer emails
+
+---
+
+## 3. Sprint Planning & Estimation
+
+### Story Points
+- Estimation uses Fibonacci-like sequence:
+  - 1, 2, 3, 5, 8, 13, 21
+- Represents relative size, not time
+
+### Estimating Sprints (Forecast)
+- Number of Sprints ≈ (Total story points) / Velocity
+  - Velocity = average story points completed per sprint
+  - Sprints = fixed time box (e.g., 2 weeks)
+ 
+### Sprint Planning Example:
+- 100 total story points
+- 20 points per sprint velocity (avg. completed per sprint)
+- → Number of Sprints ≈ 5 sprints
