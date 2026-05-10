@@ -51,3 +51,29 @@
 - 100 total story points
 - 20 points per sprint velocity (avg. completed per sprint)
 - → Number of Sprints ≈ 5 sprints
+
+---
+
+## 4. Burndown Chart
+
+### Purpose
+- Tracks sprint progress over time
+- Helps forecast if sprint goal can be achieved
+
+### How to Read
+- Vertical axis = remaining story points
+- Horizontal axis = sprint days/time
+- Story points should decrease over time ("burn down")
+
+### Burndown Chart Components
+- Dot
+  - Represents completed story
+- Ideal line (dotted line)
+  - Expected progress path during the sprint
+- Actual line (blue line)
+  - Real progress made by the team during the sprint
+- vertical block
+  - Indicates non-working days
+
+### Burndown Chart Example
+- <img src="../main/assets/burndown-chart.jpg" alt="Burndown Chart Example" height="512">
