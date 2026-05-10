@@ -68,11 +68,11 @@
 ### Burndown Chart Components
 - Dot
   - Represents completed story
-- Ideal line (dotted line)
-  - Expected progress path during the sprint
 - Actual line (blue line)
   - Real progress made by the team during the sprint
-- vertical block
+- Ideal line (dotted line)
+  - Expected progress path during the sprint
+- Vertical block
   - Indicates non-working days
 
 ### Burndown Chart Example
